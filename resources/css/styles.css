@@ -2,6 +2,7 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  font-size: 16px;
 }
 
 body {
@@ -11,4 +12,42 @@ body {
   background-color: black;
   text-align: center;
   align-items: center;
+}
+
+h1 {
+  font-size: 3.13rem;
+  margin: 2.8rem 0;
+}
+
+a {
+  color: aquamarine;
+  font-size: 1rem;
+}
+
+.video {
+  margin: 1.5rem 0;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 2.63rem;
+  margin: 1.8rem 0;
+}
+
+p {
+  color: gray;
+  font-size: 1.32rem;
+  margin-bottom: 1.45rem;
+}
+
+#iphone-icon {
+  margin: 1.58rem 0;
+}
+
+footer {
+  color: gray;
+  text-align: right;
+  margin-right: 1.2rem;
+  margin-bottom: 1.5rem;
+  font-size: 1.1rem;
 }
