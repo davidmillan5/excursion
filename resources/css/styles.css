@@ -34,6 +34,12 @@ h2 {
   margin: 1.8rem 0;
 }
 
+#tent-img {
+  width: 100%;
+  height: auto;
+  max-width: 800px;
+}
+
 p {
   color: gray;
   font-size: 1.32rem;
@@ -65,11 +71,6 @@ footer {
   footer {
     text-align: center;
     margin-top: 1.2rem;
-  }
-
-  #tent-img {
-    height: 200px;
-    width: 280px;
   }
 
   .video {
